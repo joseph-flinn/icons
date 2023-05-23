@@ -8,7 +8,7 @@ authors = ["Joseph Flinn <joseph.s.flinn@gmail.com>"]
 python = "^3.9"
 fastapi = "^0.65.1"
 beautifulsoup4 = "^4.9.3"
-requests = "^2.25.1"
+requests = "^2.31.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
